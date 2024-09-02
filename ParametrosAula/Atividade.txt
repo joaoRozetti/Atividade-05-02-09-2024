@@ -1,0 +1,25 @@
+1 - Os valores da linha 2 são: 1,2 e 3;
+    Os valores da linha 6 são: 101,102 e 103;
+    Os valores da linha 12 são: 1,2 e 3.
+
+2 - Os valores da linha 2 são: 1, 2 e 3;
+    Os valores da linha 6 são: 101, 102 e 103;
+    Os valores da linha 12 são: 101, 102 e 103.
+
+3 - O valor inicial de a é 0. E o valor inicial de b é 5.
+    O valor final de a é 5. E o de b é 5.
+
+4 - Antes de chamar por_valor: x = 2, y = 4 e z = 6;
+    Depois de chamar por_valor: x = 2, y = 4 e z = 6;
+    Antes de chamar por_ref: x = 2, y = 4 e z = 6;
+    Depois de chamar por_ref: x = 0, y = 0 e z = 0;
+
+5 - O valor de num* na linha 3 é 11.
+    E o valor final na linha 9 é 11 também.
+
+6 - O valor da linha 4 é: 8;
+    O valor da linha 5 é: 7;
+    O valor da linha 11 é: 8;
+    O valor da linha 12 é: 2;
+
+7 - O valor da linha 12 é: 
